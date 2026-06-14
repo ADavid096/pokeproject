@@ -1,0 +1,49 @@
+<mxfile host="app.diagrams.net">
+  <diagram name="Página-1" id="-buSFxMTbuo48Zk589HL">
+    <mxGraphModel grid="1" page="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="Cc2ZNUWNDg9dVbu1Z9pr-3" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="pokemon" vertex="1">
+          <mxGeometry height="60" width="120" x="270" y="70" as="geometry" />
+        </mxCell>
+        <mxCell id="Cc2ZNUWNDg9dVbu1Z9pr-4" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="usuario" vertex="1">
+          <mxGeometry height="60" width="120" x="60" y="180" as="geometry" />
+        </mxCell>
+        <mxCell id="Cc2ZNUWNDg9dVbu1Z9pr-5" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="pokedex" vertex="1">
+          <mxGeometry height="60" width="120" x="240" y="180" as="geometry" />
+        </mxCell>
+        <mxCell id="Cc2ZNUWNDg9dVbu1Z9pr-6" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Naturaleza" vertex="1">
+          <mxGeometry height="60" width="120" x="280" y="-70" as="geometry" />
+        </mxCell>
+        <mxCell id="Cc2ZNUWNDg9dVbu1Z9pr-7" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Habilidad" vertex="1">
+          <mxGeometry height="60" width="120" x="140" y="-30" as="geometry" />
+        </mxCell>
+        <mxCell id="Cc2ZNUWNDg9dVbu1Z9pr-8" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Tipo" vertex="1">
+          <mxGeometry height="60" width="120" x="90" y="70" as="geometry" />
+        </mxCell>
+        <mxCell id="Cc2ZNUWNDg9dVbu1Z9pr-9" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Objetos" vertex="1">
+          <mxGeometry height="60" width="120" x="440" y="-50" as="geometry" />
+        </mxCell>
+        <mxCell id="Cc2ZNUWNDg9dVbu1Z9pr-10" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="generacion" vertex="1">
+          <mxGeometry height="60" width="120" x="480" y="120" as="geometry" />
+        </mxCell>
+        <mxCell id="Cc2ZNUWNDg9dVbu1Z9pr-11" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="calculo de daño" vertex="1">
+          <mxGeometry height="60" width="120" x="470" y="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Cc2ZNUWNDg9dVbu1Z9pr-12" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="lugares" vertex="1">
+          <mxGeometry height="60" width="120" x="610" y="-40" as="geometry" />
+        </mxCell>
+        <mxCell id="Cc2ZNUWNDg9dVbu1Z9pr-13" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="personajes" vertex="1">
+          <mxGeometry height="60" width="120" x="650" y="50" as="geometry" />
+        </mxCell>
+        <mxCell id="Cc2ZNUWNDg9dVbu1Z9pr-14" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="estados" vertex="1">
+          <mxGeometry height="60" width="120" x="640" y="150" as="geometry" />
+        </mxCell>
+        <mxCell id="Cc2ZNUWNDg9dVbu1Z9pr-15" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="movimientos" vertex="1">
+          <mxGeometry height="60" width="120" x="294" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
