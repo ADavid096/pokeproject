@@ -14,7 +14,7 @@
           <mxGeometry height="60" width="120" x="174" y="670" as="geometry" />
         </mxCell>
         <mxCell id="Cc2ZNUWNDg9dVbu1Z9pr-7" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Habilidad" vertex="1">
-          <mxGeometry height="60" width="120" x="340" y="655" as="geometry" />
+          <mxGeometry height="60" width="120" x="400" y="595" as="geometry" />
         </mxCell>
         <mxCell id="Cc2ZNUWNDg9dVbu1Z9pr-8" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Formas" vertex="1">
           <mxGeometry height="60" width="120" x="90" y="260" as="geometry" />
@@ -26,7 +26,7 @@
           <mxGeometry height="60" width="120" x="710" y="370" as="geometry" />
         </mxCell>
         <mxCell id="Cc2ZNUWNDg9dVbu1Z9pr-11" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="calculo de daño" vertex="1">
-          <mxGeometry height="60" width="120" x="414" y="750" as="geometry" />
+          <mxGeometry height="60" width="120" x="400" y="730" as="geometry" />
         </mxCell>
         <mxCell id="Cc2ZNUWNDg9dVbu1Z9pr-12" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="lugares" vertex="1">
           <mxGeometry height="60" width="120" x="558" y="850" as="geometry" />
@@ -113,7 +113,7 @@
           <mxGeometry height="40" width="80" x="880" y="230" as="geometry" />
         </mxCell>
         <mxCell id="7a1Zpxl_pjnSSGbPLovK-32" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="estadoGeneracion" vertex="1">
-          <mxGeometry height="60" width="120" x="473" y="445" as="geometry" />
+          <mxGeometry height="60" width="120" x="523" y="455" as="geometry" />
         </mxCell>
         <mxCell id="7a1Zpxl_pjnSSGbPLovK-33" parent="1" style="ellipse;whiteSpace=wrap;html=1;" value="id_estado" vertex="1">
           <mxGeometry height="40" width="80" x="820" y="505" as="geometry" />
@@ -122,16 +122,16 @@
           <mxGeometry height="40" width="80" x="840" y="530" as="geometry" />
         </mxCell>
         <mxCell id="7a1Zpxl_pjnSSGbPLovK-35" parent="1" style="ellipse;whiteSpace=wrap;html=1;" value="id_estado" vertex="1">
-          <mxGeometry height="40" width="80" x="543" y="420" as="geometry" />
+          <mxGeometry height="40" width="80" x="593" y="430" as="geometry" />
         </mxCell>
         <mxCell id="7a1Zpxl_pjnSSGbPLovK-36" parent="1" style="ellipse;whiteSpace=wrap;html=1;" value="id_gen" vertex="1">
-          <mxGeometry height="40" width="90" x="573" y="450" as="geometry" />
+          <mxGeometry height="40" width="90" x="623" y="460" as="geometry" />
         </mxCell>
         <mxCell id="7a1Zpxl_pjnSSGbPLovK-37" parent="1" style="ellipse;whiteSpace=wrap;html=1;" value="descripcion" vertex="1">
-          <mxGeometry height="40" width="90" x="590" y="480" as="geometry" />
+          <mxGeometry height="40" width="90" x="640" y="490" as="geometry" />
         </mxCell>
         <mxCell id="7a1Zpxl_pjnSSGbPLovK-38" parent="1" style="ellipse;whiteSpace=wrap;html=1;" value="efecto" vertex="1">
-          <mxGeometry height="40" width="90" x="538" y="505" as="geometry" />
+          <mxGeometry height="40" width="90" x="588" y="515" as="geometry" />
         </mxCell>
         <mxCell id="7a1Zpxl_pjnSSGbPLovK-39" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Combate" vertex="1">
           <mxGeometry height="60" width="120" x="534" y="640" as="geometry" />
@@ -183,6 +183,21 @@
         </mxCell>
         <mxCell id="7a1Zpxl_pjnSSGbPLovK-56" parent="1" style="ellipse;whiteSpace=wrap;html=1;" value="nombre" vertex="1">
           <mxGeometry height="40" width="80" x="400" y="240" as="geometry" />
+        </mxCell>
+        <mxCell id="7a1Zpxl_pjnSSGbPLovK-57" parent="1" style="ellipse;whiteSpace=wrap;html=1;" value="id_pokemon" vertex="1">
+          <mxGeometry height="40" width="80" x="214" y="360" as="geometry" />
+        </mxCell>
+        <mxCell id="7a1Zpxl_pjnSSGbPLovK-58" parent="1" style="ellipse;whiteSpace=wrap;html=1;" value="id_forma" vertex="1">
+          <mxGeometry height="40" width="80" x="280" y="360" as="geometry" />
+        </mxCell>
+        <mxCell id="7a1Zpxl_pjnSSGbPLovK-59" parent="1" style="ellipse;whiteSpace=wrap;html=1;" value="id_generacion" vertex="1">
+          <mxGeometry height="40" width="80" x="340" y="360" as="geometry" />
+        </mxCell>
+        <mxCell id="7a1Zpxl_pjnSSGbPLovK-60" parent="1" style="ellipse;whiteSpace=wrap;html=1;" value="id_tipogen" vertex="1">
+          <mxGeometry height="40" width="80" x="390" y="380" as="geometry" />
+        </mxCell>
+        <mxCell id="7a1Zpxl_pjnSSGbPLovK-61" parent="1" style="ellipse;whiteSpace=wrap;html=1;" value="id_tipogen" vertex="1">
+          <mxGeometry height="40" width="80" x="480" y="250" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
