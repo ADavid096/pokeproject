@@ -246,7 +246,7 @@
         <mxCell id="7a1Zpxl_pjnSSGbPLovK-59" parent="1" style="ellipse;whiteSpace=wrap;html=1;" value="id_generacion" vertex="1">
           <mxGeometry height="40" width="80" x="340" y="360" as="geometry" />
         </mxCell>
-        <mxCell id="7a1Zpxl_pjnSSGbPLovK-60" parent="1" style="ellipse;whiteSpace=wrap;html=1;" value="id_tipogen" vertex="1">
+        <mxCell id="7a1Zpxl_pjnSSGbPLovK-60" parent="1" style="ellipse;whiteSpace=wrap;html=1;" value="id_tipogen1,2" vertex="1">
           <mxGeometry height="40" width="80" x="390" y="380" as="geometry" />
         </mxCell>
         <mxCell id="7a1Zpxl_pjnSSGbPLovK-61" parent="1" style="ellipse;whiteSpace=wrap;html=1;" value="id_tipogen" vertex="1">
